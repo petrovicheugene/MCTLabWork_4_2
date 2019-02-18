@@ -41,7 +41,7 @@ int main()
         outputSolutionToFile();
     }
 
-    getchar();
+    system("pause");
     return 0;
 }
 //=====================================================
